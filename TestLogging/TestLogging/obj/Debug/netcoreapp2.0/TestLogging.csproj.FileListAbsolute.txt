@@ -1,0 +1,11 @@
+C:\Users\prade\source\repos\TestLogging\TestLogging\obj\Debug\netcoreapp2.0\TestLogging.csproj.CoreCompileInputs.cache
+C:\Users\prade\source\repos\TestLogging\TestLogging\obj\Debug\netcoreapp2.0\TestLogging.AssemblyInfoInputs.cache
+C:\Users\prade\source\repos\TestLogging\TestLogging\obj\Debug\netcoreapp2.0\TestLogging.AssemblyInfo.cs
+C:\Users\prade\source\repos\TestLogging\TestLogging\bin\Debug\netcoreapp2.0\TestLogging.deps.json
+C:\Users\prade\source\repos\TestLogging\TestLogging\bin\Debug\netcoreapp2.0\TestLogging.runtimeconfig.json
+C:\Users\prade\source\repos\TestLogging\TestLogging\bin\Debug\netcoreapp2.0\TestLogging.runtimeconfig.dev.json
+C:\Users\prade\source\repos\TestLogging\TestLogging\bin\Debug\netcoreapp2.0\TestLogging.dll
+C:\Users\prade\source\repos\TestLogging\TestLogging\bin\Debug\netcoreapp2.0\TestLogging.pdb
+C:\Users\prade\source\repos\TestLogging\TestLogging\obj\Debug\netcoreapp2.0\TestLogging.dll
+C:\Users\prade\source\repos\TestLogging\TestLogging\obj\Debug\netcoreapp2.0\TestLogging.pdb
+C:\Users\prade\source\repos\TestLogging\TestLogging\obj\Debug\netcoreapp2.0\TestLogging.csprojResolveAssemblyReference.cache
