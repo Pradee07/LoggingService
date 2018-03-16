@@ -9,3 +9,14 @@ C:\Users\prade\source\repos\TestLogging\TestLogging\bin\Debug\netcoreapp2.0\Test
 C:\Users\prade\source\repos\TestLogging\TestLogging\obj\Debug\netcoreapp2.0\TestLogging.dll
 C:\Users\prade\source\repos\TestLogging\TestLogging\obj\Debug\netcoreapp2.0\TestLogging.pdb
 C:\Users\prade\source\repos\TestLogging\TestLogging\obj\Debug\netcoreapp2.0\TestLogging.csprojResolveAssemblyReference.cache
+F:\GitRepo\TestLogging\TestLogging\bin\Debug\netcoreapp2.0\TestLogging.deps.json
+F:\GitRepo\TestLogging\TestLogging\bin\Debug\netcoreapp2.0\TestLogging.runtimeconfig.json
+F:\GitRepo\TestLogging\TestLogging\bin\Debug\netcoreapp2.0\TestLogging.runtimeconfig.dev.json
+F:\GitRepo\TestLogging\TestLogging\bin\Debug\netcoreapp2.0\TestLogging.dll
+F:\GitRepo\TestLogging\TestLogging\bin\Debug\netcoreapp2.0\TestLogging.pdb
+F:\GitRepo\TestLogging\TestLogging\obj\Debug\netcoreapp2.0\TestLogging.csprojResolveAssemblyReference.cache
+F:\GitRepo\TestLogging\TestLogging\obj\Debug\netcoreapp2.0\TestLogging.csproj.CoreCompileInputs.cache
+F:\GitRepo\TestLogging\TestLogging\obj\Debug\netcoreapp2.0\TestLogging.AssemblyInfoInputs.cache
+F:\GitRepo\TestLogging\TestLogging\obj\Debug\netcoreapp2.0\TestLogging.AssemblyInfo.cs
+F:\GitRepo\TestLogging\TestLogging\obj\Debug\netcoreapp2.0\TestLogging.dll
+F:\GitRepo\TestLogging\TestLogging\obj\Debug\netcoreapp2.0\TestLogging.pdb

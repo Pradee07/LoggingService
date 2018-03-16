@@ -20,7 +20,7 @@ namespace CSCoreLogging.LogProvider
 
         public ILogger CreateLogger(string categoryName)
         {
-            return new DBLogger(categoryName, _filter, _connectionString);
+            return new LoggingService(categoryName, _filter, _connectionString);
         }
 
         public void Dispose()

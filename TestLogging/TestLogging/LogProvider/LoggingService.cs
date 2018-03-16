@@ -7,14 +7,14 @@ using System.Threading.Tasks;
 
 namespace CSCoreLogging.LogProvider
 {
-    public class DBLogger : ILogger
+    public class LoggingService : ILogger
     {
         private string _categoryName;
         private Func<string, LogLevel, bool> _filter;
         private SqlDAO _helper;
         private int MessageMaxLength = 4000;
 
-        public DBLogger(string categoryName, Func<string, LogLevel, bool> filter, string connectionString)
+        public LoggingService(string categoryName, Func<string, LogLevel, bool> filter, string connectionString)
         {
             _categoryName = categoryName;
             _filter = filter;
